@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="970.91522"
+   width="1098.9658"
    height="208.21875"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.47 r22583"
    version="1.0"
    sodipodi:docname="diefenbunker.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -43,9 +44,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3296733"
-     inkscape:cx="485.45761"
-     inkscape:cy="105.51676"
+     inkscape:zoom="1.172921"
+     inkscape:cx="549.48289"
+     inkscape:cy="104.10937"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +55,8 @@
      inkscape:window-width="1392"
      inkscape:window-height="972"
      inkscape:window-x="0"
-     inkscape:window-y="25" />
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -72,50 +74,49 @@
      id="layer1"
      transform="translate(-37.742374,-256.97957)">
     <g
-       id="g2400">
+       id="g2832">
       <path
          id="path2453"
-         transform="translate(37.742374,256.97957)"
-         d="M 140,0 C 105.66578,0 74.20981,12.42884 49.84375,33 L 27.6875,33 L 22.4375,33 L 22.4375,38.3125 L 22.4375,64.0625 C 8.2398689,85.98021 -2.7e-05,112.10845 0,140.125 C 0,164.84508 6.4547508,188.05365 17.71875,208.21875 L 262.375,208.21875 C 273.65681,188.05363 280.12503,164.84508 280.125,140.125 C 280.12499,112.11015 271.87264,85.97938 257.65625,64.0625 L 257.65625,38.3125 L 257.65625,33 L 252.40625,33 L 230.21875,33 C 205.82457,12.423411 174.33929,4e-05 140,0 z M 140,10.5625 C 167.04877,10.56252 192.16171,18.82486 212.9375,33 L 67.09375,33 C 87.847978,18.824851 112.95123,10.5625 140,10.5625 z M 32.96875,43.59375 L 38.59375,43.59375 C 36.663367,45.62412 34.776003,47.70077 32.96875,49.84375 L 32.96875,43.59375 z M 53.625,43.59375 L 226.4375,43.59375 C 234.24362,50.58661 241.20038,58.50409 247.125,67.1875 L 247.125,198.25 L 210.0625,198.25 L 210.0625,72.6875 L 210.0625,67.40625 L 204.8125,67.40625 L 71.3125,67.40625 L 66.03125,67.40625 L 66.03125,72.6875 L 66.03125,198.25 L 32.96875,198.25 L 32.96875,67.1875 C 38.88379,58.505572 45.829532,50.5856 53.625,43.59375 z M 241.4375,43.59375 L 247.125,43.59375 L 247.125,49.90625 C 245.2973,47.739041 243.39104,45.64596 241.4375,43.59375 z M 76.59375,77.9375 L 113.21875,77.9375 C 91.67611,87.503752 76.59372,109.08697 76.59375,134.125 C 76.593747,167.98528 104.17097,195.56247 138.03125,195.5625 C 171.89153,195.56251 199.50004,167.98529 199.5,134.125 C 199.49999,109.08695 184.40077,87.50375 162.84375,77.9375 L 199.53125,77.9375 L 199.53125,198.25 L 76.59375,198.25 L 76.59375,134.125 L 76.59375,77.9375 z M 138.03125,83.25 C 166.183,83.25002 188.96875,105.97325 188.96875,134.125 C 188.96876,162.27675 166.183,185 138.03125,185 C 109.87946,184.99999 87.1875,162.27676 87.1875,134.125 C 87.187503,105.97324 109.87949,83.25 138.03125,83.25 z M 22.4375,85.84375 L 22.4375,194.40625 C 14.812175,177.89932 10.53125,159.52128 10.53125,140.125 C 10.531237,120.73752 14.818688,102.3579 22.4375,85.84375 z M 257.65625,85.84375 C 265.28806,102.3579 269.5625,120.73751 269.5625,140.125 C 269.56252,159.52128 265.29456,177.89931 257.65625,194.40625 L 257.65625,85.84375 z"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.52235317;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 177.74237,256.97957 c -34.33422,0 -65.79019,12.42884 -90.156246,33 l -22.15625,0 -5.25,0 0,5.3125 0,25.75 c -14.197631,21.91771 -22.437527,48.04595 -22.4375,76.0625 0,24.72008 6.454751,47.92865 17.71875,68.09375 l 244.656246,0 c 11.28181,-20.16512 17.75003,-43.37367 17.75,-68.09375 -10e-6,-28.01485 -8.25236,-54.14562 -22.46875,-76.0625 l 0,-25.75 0,-5.3125 -5.25,0 -22.1875,0 c -24.39418,-20.57659 -55.87946,-32.99996 -90.21875,-33 z m 0,10.5625 c 27.04877,2e-5 52.16171,8.26236 72.9375,22.4375 l -145.84375,0 c 20.75423,-14.17515 45.85748,-22.4375 72.90625,-22.4375 z m -107.031246,33.03125 5.625,0 c -1.930383,2.03037 -3.817747,4.10702 -5.625,6.25 l 0,-6.25 z m 20.65625,0 172.812496,0 c 7.80612,6.99286 14.76288,14.91034 20.6875,23.59375 l 0,131.0625 -37.0625,0 0,-125.5625 0,-5.28125 -5.25,0 -133.5,0 -5.28125,0 0,5.28125 0,125.5625 -33.062496,0 0,-131.0625 c 5.91504,-8.68193 12.860782,-16.6019 20.65625,-23.59375 z m 187.812496,0 5.6875,0 0,6.3125 c -1.8277,-2.16721 -3.73396,-4.26029 -5.6875,-6.3125 z m -164.84375,34.34375 36.625,0 c -21.54264,9.56625 -36.62503,31.14947 -36.625,56.1875 0,33.86028 27.57722,61.43747 61.4375,61.4375 33.86028,10e-6 61.46879,-27.57721 61.46875,-61.4375 -1e-5,-25.03805 -15.09923,-46.62125 -36.65625,-56.1875 l 36.6875,0 0,120.3125 -122.9375,0 0,-64.125 0,-56.1875 z m 61.4375,5.3125 c 28.15175,2e-5 50.9375,22.72325 50.9375,50.875 1e-5,28.15175 -22.78575,50.875 -50.9375,50.875 -28.15179,-1e-5 -50.84375,-22.72324 -50.84375,-50.875 1e-5,-28.15176 22.69199,-50.875 50.84375,-50.875 z m -115.593746,2.59375 0,108.5625 c -7.625325,-16.50693 -11.90625,-34.88497 -11.90625,-54.28125 -1.3e-5,-19.38748 4.287438,-37.7671 11.90625,-54.28125 z m 235.218746,0 c 7.63181,16.51415 11.90625,34.89376 11.90625,54.28125 2e-5,19.39628 -4.26794,37.77431 -11.90625,54.28125 l 0,-108.5625 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
       <rect
          y="349.37546"
          x="155.72775"
          height="34.651974"
          width="43.201077"
          id="rect3231"
-         style="fill:#e31836;fill-opacity:1;stroke:none;stroke-width:7.91999912;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#e31836;fill-opacity:1;stroke:none" />
       <text
          sodipodi:linespacing="100%"
          id="text3278"
-         y="354.99869"
-         x="345.04398"
-         style="font-size:116.99067688px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Condensed"
+         y="346.99869"
+         x="337.04398"
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          xml:space="preserve"><tspan
-           y="354.99869"
-           x="345.04398"
-           id="tspan3280"
-           sodipodi:role="line">Diefenbunker.</tspan></text>
+           y="346.99869"
+           x="337.04398"
+           id="tspan2830"
+           sodipodi:role="line">Diefenbunker</tspan></text>
       <text
          sodipodi:linespacing="100%"
          id="text3282"
-         y="413.10141"
-         x="349.64664"
-         style="font-size:42.62861252px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Condensed"
+         y="405.10141"
+         x="341.64664"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          xml:space="preserve"><tspan
-           y="413.10141"
-           x="349.64664"
+           y="405.10141"
+           x="341.64664"
            id="tspan3284"
            sodipodi:role="line">Canada's Cold War Museum</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:42.62861252px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Condensed"
-         x="348.71207"
-         y="463.30539"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         x="340.71207"
+         y="455.30539"
          id="text3286"
          sodipodi:linespacing="100%"><tspan
-           y="463.30539"
-           x="348.71207"
+           y="455.30539"
+           x="340.71207"
            id="tspan3294"
            sodipodi:role="line">Musée canadien de la Guerre froide</tspan></text>
     </g>
