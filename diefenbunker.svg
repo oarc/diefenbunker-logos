@@ -44,9 +44,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.172921"
-     inkscape:cx="549.48289"
-     inkscape:cy="104.10937"
+     inkscape:zoom="1.1729209"
+     inkscape:cx="549.48291"
+     inkscape:cy="104.10938"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,6 +65,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Tyler Tidman VA3DGN</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
     </rdf:RDF>
   </metadata>
