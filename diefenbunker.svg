@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1098.9658"
+   width="1146.1094"
    height="208.21875"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.3.1 r9886"
    version="1.0"
    sodipodi:docname="diefenbunker.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -45,18 +45,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1729209"
-     inkscape:cx="549.48291"
+     inkscape:cx="551.18805"
      inkscape:cy="104.10938"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      units="in"
-     inkscape:window-width="1392"
+     inkscape:window-width="1659"
      inkscape:window-height="972"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0" />
+     inkscape:window-x="126"
+     inkscape:window-y="41"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -80,11 +84,12 @@
      id="layer1"
      transform="translate(-37.742374,-256.97957)">
     <g
-       id="g2832">
+       id="g3007">
       <path
          id="path2453"
          d="m 177.74237,256.97957 c -34.33422,0 -65.79019,12.42884 -90.156246,33 l -22.15625,0 -5.25,0 0,5.3125 0,25.75 c -14.197631,21.91771 -22.437527,48.04595 -22.4375,76.0625 0,24.72008 6.454751,47.92865 17.71875,68.09375 l 244.656246,0 c 11.28181,-20.16512 17.75003,-43.37367 17.75,-68.09375 -10e-6,-28.01485 -8.25236,-54.14562 -22.46875,-76.0625 l 0,-25.75 0,-5.3125 -5.25,0 -22.1875,0 c -24.39418,-20.57659 -55.87946,-32.99996 -90.21875,-33 z m 0,10.5625 c 27.04877,2e-5 52.16171,8.26236 72.9375,22.4375 l -145.84375,0 c 20.75423,-14.17515 45.85748,-22.4375 72.90625,-22.4375 z m -107.031246,33.03125 5.625,0 c -1.930383,2.03037 -3.817747,4.10702 -5.625,6.25 l 0,-6.25 z m 20.65625,0 172.812496,0 c 7.80612,6.99286 14.76288,14.91034 20.6875,23.59375 l 0,131.0625 -37.0625,0 0,-125.5625 0,-5.28125 -5.25,0 -133.5,0 -5.28125,0 0,5.28125 0,125.5625 -33.062496,0 0,-131.0625 c 5.91504,-8.68193 12.860782,-16.6019 20.65625,-23.59375 z m 187.812496,0 5.6875,0 0,6.3125 c -1.8277,-2.16721 -3.73396,-4.26029 -5.6875,-6.3125 z m -164.84375,34.34375 36.625,0 c -21.54264,9.56625 -36.62503,31.14947 -36.625,56.1875 0,33.86028 27.57722,61.43747 61.4375,61.4375 33.86028,10e-6 61.46879,-27.57721 61.46875,-61.4375 -1e-5,-25.03805 -15.09923,-46.62125 -36.65625,-56.1875 l 36.6875,0 0,120.3125 -122.9375,0 0,-64.125 0,-56.1875 z m 61.4375,5.3125 c 28.15175,2e-5 50.9375,22.72325 50.9375,50.875 1e-5,28.15175 -22.78575,50.875 -50.9375,50.875 -28.15179,-1e-5 -50.84375,-22.72324 -50.84375,-50.875 1e-5,-28.15176 22.69199,-50.875 50.84375,-50.875 z m -115.593746,2.59375 0,108.5625 c -7.625325,-16.50693 -11.90625,-34.88497 -11.90625,-54.28125 -1.3e-5,-19.38748 4.287438,-37.7671 11.90625,-54.28125 z m 235.218746,0 c 7.63181,16.51415 11.90625,34.89376 11.90625,54.28125 2e-5,19.39628 -4.26794,37.77431 -11.90625,54.28125 l 0,-108.5625 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
       <rect
          y="349.37546"
          x="155.72775"
@@ -97,7 +102,7 @@
          id="text3278"
          y="346.99869"
          x="337.04398"
-         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
          xml:space="preserve"><tspan
            y="346.99869"
            x="337.04398"
@@ -108,7 +113,7 @@
          id="text3282"
          y="405.10141"
          x="341.64664"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
          xml:space="preserve"><tspan
            y="405.10141"
            x="341.64664"
@@ -116,7 +121,7 @@
            sodipodi:role="line">Canada's Cold War Museum</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
          x="340.71207"
          y="455.30539"
          id="text3286"
@@ -125,6 +130,17 @@
            x="340.71207"
            id="tspan3294"
            sodipodi:role="line">Musée canadien de la Guerre froide</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3001"
+         y="346.69077"
+         x="887.16736"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           y="346.69077"
+           x="887.16736"
+           id="tspan3005"
+           sodipodi:role="line">®</tspan></text>
     </g>
   </g>
 </svg>
