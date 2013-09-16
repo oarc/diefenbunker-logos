@@ -2,7 +2,8 @@ These logos were drawn in Scalable Vector Graphics (SVG) format [3] for the
 Diefenbunker [0] by Tyler Tidman VA3DGN.  Wherever possible, the Portable
 Network Graphics (PNG) format [4] is now being used for all auto-generated
 bitmaps.  The chosen fonts, "Arial" [1] and "Impact" [2] have proprietary
-licenses and have not been included here.
+licenses and have not been included here.  Some Linux distributions provide a
+"ttf-mscorefonts-installer" package to provide these.
 
 Software that was used to create and work with these files:
   - GNU Make (3.81) [5]
